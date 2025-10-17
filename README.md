@@ -44,6 +44,10 @@ Provides a live chat interface over Telegram where users can ask legal questions
 <img width="853" height="536" alt="image" src="https://github.com/user-attachments/assets/450210ac-a66c-476f-9191-d8f4ac5ac072" />
 
 ---
+## Demo
+[AI Legal Assistant Demo Link](https://youtu.be/7zOHxt3gbPM)
+
+[Telegram BOT Link](t.me/sanjeev_legal_ai_bot)
 
 ## Dependencies
 
